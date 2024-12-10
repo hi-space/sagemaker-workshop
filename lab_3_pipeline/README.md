@@ -30,7 +30,7 @@ lab_03_pipeline 은 lab_01_training, lab_02_inference 이후의 단계 입니다
     - 첫번째의 전처리 과정의 스텝 생성 하며 아래 세가지의 단계별 구현을 합니다.
         - 로컬 노트북에서 전처리 스크립트 실행 (예: python preprocess.py)
         - MBP 의 파이프라인 단계 (step_proecess) 를 생성하여 실행
--  3.3.Train-Pipeline.ipynb
+-  3.3.Train-Pipeline.ipyn
     - 전처리된 데이터를 바탕으로 모델 훈련을 합니다.
         - MBP 의 파이프라인 단계 (step_train) 를 생성하여 실행
 - 3.4.Create-Model-Pipeline.ipynb 
